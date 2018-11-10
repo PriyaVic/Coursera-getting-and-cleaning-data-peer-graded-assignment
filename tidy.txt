@@ -1,2 +1,0 @@
-write.table(CombinedData.mean, file = "TidyDataSet.txt", 
-            row.names = FALSE, quote = FALSE)
